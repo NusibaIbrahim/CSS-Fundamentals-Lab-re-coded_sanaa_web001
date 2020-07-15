@@ -25,6 +25,11 @@ p{
   width: 800px;
   text-align: center;
 }
-datails{
+#datails{
   display: block;
+}
+#datails div{
+  float: left;
+  background-color: blue;
+  
 }
