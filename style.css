@@ -31,5 +31,6 @@ p{
 #datails div{
   float: left;
   background-color: blue;
-  
+  width:25%;
+  text-align: center;
 }
